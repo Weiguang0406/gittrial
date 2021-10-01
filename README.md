@@ -1,10 +1,3 @@
 # gittrial
  triallocalrepo
-Test change
-test change again;
-
-
-test change 3rd time
-dddfdfdcdcdc
-
-another change
+This is for git test repo
